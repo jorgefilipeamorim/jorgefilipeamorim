@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jorgefilipeamorim
+👋 Hi, I’m @jorgefilipeamorim
 
 👀 I’m interested in learning more, develop better and keep on improving as a developer.
 
